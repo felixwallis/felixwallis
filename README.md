@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Felix.
-- 👀 I’m interested in JavaScript, Pyton, R, and natural lanuage processing.
-- 🌱 I’m currently learning more about GPT-3.
+- 👀 I’m interested in JavaScript, Python, R, and natural language processing.
+- 🌱 I’m currently learning more about GPT-4.
 - 📫 Email me at felixwallis944@gmail.com if you'd like to get in touch. 
 
 <!---
